@@ -6,14 +6,6 @@ The model learns to balance a pole on a moving cart by using **Q-learning**, exp
 
 ---
 
-## 🚀 Demo
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Cartpole.gif" width="300"/>
-
-> After ~200 episodes, the agent learns to consistently solve the CartPole task!
-
----
-
 ## 🧠 Features
 
 - ✅ Deep Q-Learning with PyTorch
